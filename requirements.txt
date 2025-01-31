@@ -1,0 +1,8 @@
+gensim==4.3.3
+nltk==3.9.1
+spacy==3.8.2
+datasets==3.1.0
+pandas==2.2.2
+numpy==1.26.4
+scipy==1.13.1
+pyinflect==0.5.1
